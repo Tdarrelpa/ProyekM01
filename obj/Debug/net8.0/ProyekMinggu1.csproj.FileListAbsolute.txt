@@ -1,0 +1,15 @@
+C:\Users\darrel\source\repos\Tdarrelpa\ProyekM01\bin\Debug\net8.0\ProyekMinggu1.exe
+C:\Users\darrel\source\repos\Tdarrelpa\ProyekM01\bin\Debug\net8.0\ProyekMinggu1.deps.json
+C:\Users\darrel\source\repos\Tdarrelpa\ProyekM01\bin\Debug\net8.0\ProyekMinggu1.runtimeconfig.json
+C:\Users\darrel\source\repos\Tdarrelpa\ProyekM01\bin\Debug\net8.0\ProyekMinggu1.dll
+C:\Users\darrel\source\repos\Tdarrelpa\ProyekM01\bin\Debug\net8.0\ProyekMinggu1.pdb
+C:\Users\darrel\source\repos\Tdarrelpa\ProyekM01\obj\Debug\net8.0\ProyekMinggu1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darrel\source\repos\Tdarrelpa\ProyekM01\obj\Debug\net8.0\ProyekMinggu1.AssemblyInfoInputs.cache
+C:\Users\darrel\source\repos\Tdarrelpa\ProyekM01\obj\Debug\net8.0\ProyekMinggu1.AssemblyInfo.cs
+C:\Users\darrel\source\repos\Tdarrelpa\ProyekM01\obj\Debug\net8.0\ProyekMinggu1.csproj.CoreCompileInputs.cache
+C:\Users\darrel\source\repos\Tdarrelpa\ProyekM01\obj\Debug\net8.0\ProyekMinggu1.sourcelink.json
+C:\Users\darrel\source\repos\Tdarrelpa\ProyekM01\obj\Debug\net8.0\ProyekMinggu1.dll
+C:\Users\darrel\source\repos\Tdarrelpa\ProyekM01\obj\Debug\net8.0\refint\ProyekMinggu1.dll
+C:\Users\darrel\source\repos\Tdarrelpa\ProyekM01\obj\Debug\net8.0\ProyekMinggu1.pdb
+C:\Users\darrel\source\repos\Tdarrelpa\ProyekM01\obj\Debug\net8.0\ProyekMinggu1.genruntimeconfig.cache
+C:\Users\darrel\source\repos\Tdarrelpa\ProyekM01\obj\Debug\net8.0\ref\ProyekMinggu1.dll
